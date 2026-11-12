@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Atividade useEffect",
+    "slug": "atividade-useeffect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
